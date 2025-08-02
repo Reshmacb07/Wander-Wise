@@ -71,6 +71,35 @@ Travel planning can be overwhelming, especially when users must search across mu
 
 📥 Ready for WhatsApp or Web chatbot integration with minimal effort
 
+# 🔄 How It Works
+
+
+1. User Makes a Travel Request
+The user types a natural question — like finding flights, weekend plans, or activities — without needing technical inputs.
+
+2. LLM Understands Intent & Context
+IBM Granite Large Language Model (LLM), via Watsonx.ai, interprets the user's query and extracts relevant parameters such as destination, date, or travel theme.
+
+3. Searches Uploaded Trip Documents 
+If itinerary PDFs or travel guides are uploaded, a vector index retrieves trusted and relevant information to support the response.
+
+4. Custom Tool Invokes Flight Search Logic
+Based on extracted info, the backend Python tool (connected via Watsonx) sends a real-time query to Amadeus API to find matching flight options.
+
+5. Fetches Flight and Travel Data
+Receives data like airlines, schedules, and pricing from the Amadeus API.
+
+6. Agent Responds with Grounded, Contextual Output
+The AI combines real-time flight data, document-sourced content (if any), and user preferences to respond in natural, helpful language.
+
+7.  Enhanced Features
+Weather updates, transport suggestions, and local experiences.
+PDF itinerary generation.
+Multilingual and follow-up support for global travelers.
+
+
+
+
 
 
  
