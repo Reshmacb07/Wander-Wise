@@ -97,6 +97,64 @@ Weather updates, transport suggestions, and local experiences.
 PDF itinerary generation.
 Multilingual and follow-up support for global travelers.
 
+# Screenshots
+
+🔹 Setting Up
+
+<img width="1915" height="835" alt="Setup" src="https://github.com/user-attachments/assets/3c385570-ee1c-4796-bb5f-46cffb753b7d" />
+<br>
+
+</br>
+
+🔹 Agent Instructions
+
+<img width="1759" height="675" alt="agent instructions" src="https://github.com/user-attachments/assets/e0fda5d7-4742-4aef-bfbb-5949476e06df" />
+<br>
+
+</br>
+
+🔹 Quick start questions
+
+<img width="1920" height="839" alt="Quick start qstns" src="https://github.com/user-attachments/assets/6c226072-b87f-463c-9731-8511c1358780" />
+<br>
+
+</br>
+
+🔹 Tools used
+
+<img width="1915" height="867" alt="Tools" src="https://github.com/user-attachments/assets/22b33f57-32f4-4d4b-a7d4-81e2407dbe1f" />
+<br>
+
+</br>
+
+🔹 API reference after Deployment
+
+<img width="1574" height="614" alt="API likns" src="https://github.com/user-attachments/assets/f2b6e07e-5c00-49c6-ad42-5041f756eb06" />
+<br>
+
+</br>
+
+🔹 Resources list
+
+<img width="1905" height="742" alt="resource list" src="https://github.com/user-attachments/assets/a7bc946d-929e-41c5-8562-043d3e183a7a" />
+<br>
+
+</br>
+
+# 🔮 Future scope
+
+
+📱 WhatsApp or mobile app integration for on-the-go travel planning
+
+🗓️ Auto-generated trip summaries and travel history reports
+
+🧭 Integration with region-specific tourism boards for local recommendations
+
+🌐 Multilingual support using Watson Language Translator
+
+🧳 Personalized travel recommendations based on user history and preferences
+
+🔔 Real-time travel alerts and dynamic itinerary adjustments based on delays or disruptions
 
 
 
