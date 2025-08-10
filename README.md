@@ -159,6 +159,33 @@ Multilingual and follow-up support for global travelers.
 
 🔔 Real-time travel alerts and dynamic itinerary adjustments based on delays or disruptions
 
+# IBM Certifications
+<br>
+
+</br>
+Getting Started with Artificial Intelligence
+<br>
+
+</br>
+[Getting Started with Artificial Intelligence.pdf](https://github.com/user-attachments/files/21705740/Getting.Started.with.Artificial.Intelligence.pdf)
+
+<br>
+
+</br>
+Journey to Cloud Envisioning Your Solution
+<br>
+
+</br>
+[Journey to Cloud Envisioning Your Solution.pdf](https://github.com/user-attachments/files/21705744/Journey.to.Cloud.Envisioning.Your.Solution.pdf)
+
+<br>
+
+</br>
+Retrieval Augmented Generation with LangChain
+<br>
+
+</br>
+[RAG Completion Certificate _ SkillsBuild.pdf](https://github.com/user-attachments/files/21705759/RAG.Completion.Certificate._.SkillsBuild.pdf)
 
 
 
