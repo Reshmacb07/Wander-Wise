@@ -163,9 +163,7 @@ Multilingual and follow-up support for global travelers.
 </br>
 
 # IBM Certifications
-<br>
 
-</br>
 Getting Started with Artificial Intelligence
 <br>
 
