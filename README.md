@@ -158,6 +158,9 @@ Multilingual and follow-up support for global travelers.
 🧳 Personalized travel recommendations based on user history and preferences
 
 🔔 Real-time travel alerts and dynamic itinerary adjustments based on delays or disruptions
+<br>
+
+</br>
 
 # IBM Certifications
 <br>
