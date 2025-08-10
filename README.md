@@ -167,7 +167,7 @@ Getting Started with Artificial Intelligence
 <br>
 
 </br>
-[Getting Started with Artificial Intelligence.pdf](https://github.com/user-attachments/files/21705740/Getting.Started.with.Artificial.Intelligence.pdf)
+<img width="1073" height="810" alt="Getting Started with Artificial Intelligence" src="https://github.com/user-attachments/assets/4c095e05-af6f-4efa-85fe-12d95d9554b7" />
 
 <br>
 
@@ -176,7 +176,7 @@ Journey to Cloud Envisioning Your Solution
 <br>
 
 </br>
-[Journey to Cloud Envisioning Your Solution.pdf](https://github.com/user-attachments/files/21705744/Journey.to.Cloud.Envisioning.Your.Solution.pdf)
+<img width="1073" height="810" alt="Journey to Cloud Envisioning Your Solution" src="https://github.com/user-attachments/assets/88f5a206-db05-4a73-9b6e-2a2f9c2bcd9e" />
 
 <br>
 
@@ -185,7 +185,7 @@ Retrieval Augmented Generation with LangChain
 <br>
 
 </br>
-[RAG Completion Certificate _ SkillsBuild.pdf](https://github.com/user-attachments/files/21705759/RAG.Completion.Certificate._.SkillsBuild.pdf)
+<img width="1337" height="830" alt="Retrieval Augmented Generation with LangChain" src="https://github.com/user-attachments/assets/0931c2f8-01cc-492b-b27d-190193d857cb" />
 
 
 
